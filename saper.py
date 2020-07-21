@@ -1,3 +1,5 @@
+#перерешать
+
 import random
 
 def step():
